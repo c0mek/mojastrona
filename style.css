@@ -1,0 +1,50 @@
+#menu {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    font-size: 18px;
+    height: 35px;
+    line-height: 200%;
+    display: inline-block;
+    text-align: center;
+}
+
+#menu>li {
+    float: left;
+    width: 150px;
+    height: 40px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header div img {
+    max-width: 1350px;
+    min-width: 200px;
+    width: 100%;
+}
+
+.gallery {
+    float: left;
+    min-width: 100px;
+    max-width: 300px;
+    margin: 20px;
+}
+
+.gallery img {
+    width: 100%;
+}
+.menu
+{
+    background-color: #313def;
+}
+
+.zakres
+{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0.2em;
+    margin: 0em;
+}
